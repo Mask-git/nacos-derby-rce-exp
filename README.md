@@ -12,8 +12,7 @@ python3 service.py 启动flask服务
 ```
 
 更改config.py中
-
-![image-20240717105833683](/Users/mask/Library/Application Support/typora-user-images/image-20240717105833683.png)
+server_host = "vps ip"
 
 ```
 server_host='服务器ip'
